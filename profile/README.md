@@ -1,4 +1,4 @@
-# Blotic <a href="https://bloticbvpcoe.netlify.app">Tool<img src="../images/blotic.png" height=40px align=right></a>
+# Blotic <a href="https://bloticbvpcoe.netlify.app">BVUCOEP<img src="../images/blotic.png" height=40px align=right></a>
 
 Welcome to **Blotic**! 🌐
 
