@@ -4,7 +4,7 @@ Welcome to **Blotic**! 🌐
 
 We are a community of WEB3 enthusiasts committed to educating and empowering individuals in the rapidly evolving world of blockchain and decentralized technologies. Our vision is to evolve into a DAO (Decentralized Autonomous Organization) in the near future, providing a platform for collaborative learning and growth.
 
-📍 **Bharati Vidyapeeth College of Engineering, Pune**
+📍 **Bharati Vidyapeeth University, College of Engineering, Pune**
 ## 🌟 Our Mission
 At Blotic, we strive to:
 - **Educate**: Provide resources and opportunities to learn about WEB3, blockchain, and decentralized technologies.
