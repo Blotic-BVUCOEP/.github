@@ -41,7 +41,7 @@ Reach out to us through:
 
 ## 🌐 Connect with us
 For queries or collaborations, contact:
-- **Email**: [contact@bloticclub.com](mailto:bloticbvducoep@gmail.com)
+- **Email**: [bloticbvducoep@gmail.com](mailto:bloticbvducoep@gmail.com)
 - **Location**: Bharati Vidyapeeth University, College of Engineering, Pune.
 
 
