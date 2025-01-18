@@ -1,6 +1,6 @@
 # Blotic <a href="https://bloticbvpcoe.netlify.app">BVUCOEP<img src="../images/blotic.png" height=40px align=right></a>
 
-Welcome to **Blotic**! 🌐
+Welcome to **Blotic**! 🌐 <img src="https://api.visitorbadge.io/api/visitors?path=Blotic-BVUCOEP&countColor=%23263759&style=flat" align="right">
 
 **Blotic** is an innovative club dedicated to spreading awareness about emerging technologies in the market. Founded during the boom of Web3 technologies, Blotic aims to harness the enthusiasm and potential of this transformative era. With a focus on fostering knowledge and encouraging curiosity, Blotic bridges the gap between theoretical concepts and practical applications in cutting-edge technology.
 
